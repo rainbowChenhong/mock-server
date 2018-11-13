@@ -1,0 +1,24 @@
+{
+  "login": [{
+    "url": "/login",
+    "desc": "接口描述",
+    "res": {
+      "message": "成功",
+      "code": 1,
+      "data": {
+        "loginName": "@cword(4,10)"
+      }
+    }
+  }],
+  "loginTest": [{
+    "url": "/loginTest",
+    "desc": "接口描述",
+    "res": {
+      "message": "成功",
+      "code": 1,
+      "data": {
+        "loginName": "@cword(4,10)"
+      }
+    }
+  }]
+}
